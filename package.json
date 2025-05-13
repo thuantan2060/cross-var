@@ -3,6 +3,7 @@
   "version": "1.2.0",
   "description": "",
   "main": "index.js",
+  "private": false,
   "bin": {
     "cross-var": "./index.js"
   },
@@ -19,10 +20,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/elijahmanor/cross-var"
+    "url": "https://github.com/thuantan2060/cross-var"
   },
   "bugs": {
-    "url": "https://github.com/elijahmanor/cross-var/issues"
+    "url": "https://github.com/thuantan2060/cross-var/issues"
   },
   "dependencies": {
     "@babel/core": "^7.20.12",
